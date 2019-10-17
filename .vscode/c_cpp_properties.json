@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "AVR",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/avr/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/avr/compact/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/util/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/lib/avr-gcc/9/gcc/avr/9.2.0/include/**",
+                "/usr/local/Cellar/avr-gcc/9.2.0/lib/avr-gcc/9/gcc/avr/9.2.0/include-fixed/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/bin/avr-gcc",
+            "cStandard": "c11",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
